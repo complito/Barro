@@ -1,0 +1,137 @@
+html {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+td, th {
+    padding: 5px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 990px;
+    color: #ffffff;
+    height: 100%;
+}
+.bg_191919 {
+    background: #191919;
+}
+.font {
+    font: 14px Tahoma, Geneva, sans-serif;
+}
+.footer {
+    position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 80px;
+    padding-top: 10px;
+    background-color: #191919;
+}
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+.bold {
+    font-weight: bold;
+}
+.biffy {
+    margin: 0 0 0 396px;
+}
+.w_full {
+    width: 100%;
+}
+.w_960 {
+    width: 960px;
+}
+.w_310 {
+    width: 310px;
+}
+.w_290 {
+    width: 290px;
+}
+.w_264 {
+    width: 264px;
+}
+.w_100 {
+    width: 100px;
+}
+.h_70 {
+    height: 70px;
+}
+.m_0_auto {
+    margin: 0 auto;
+}
+.color_w {
+    color: #ffffff;
+}
+.color_r {
+    color: #ff0000;
+}
+.color_g {
+    color: #00ff00;
+}
+.float_l {
+    float: left;
+}
+.float_r {
+    float: right;
+}
+.text_d_none {
+    text-decoration: none;
+}
+.page {
+    text-decoration: none;
+	display: inline-block;
+	padding: 26px 13px 27px;
+	font-weight: 700;
+}
+.page:hover {
+    background: #4c4c4c;
+}
+.content {
+    margin: 40px auto;
+}
+.pad_b_100 {
+    padding-bottom: 90px;
+}
+.text_bg {
+    padding: 15px 15px;
+    background-color: #191919;
+    border-radius: 10px;
+}
+.text_center {
+    text-align: center;
+}
+.enter {
+	padding: 7px 12px 8px;
+	border: 1px solid #808080;
+    background-color: #000000;
+    color: #ffffff;
+}
+.enter:focus {
+    border: 1px solid #ffffff;
+}
+.outline_none {
+    outline: none;
+}
+.logout {
+    border: none;
+    padding: 28.5px 13px 26.5px;
+	font-weight: 700;
+}
+.submit {
+    background: #000000;
+    margin-top: 17px;
+	padding: 9px 0 10px;
+    border: none;
+}
+.submit:hover, .logout:hover {
+    background: #4c4c4c;
+    cursor: pointer;
+}
